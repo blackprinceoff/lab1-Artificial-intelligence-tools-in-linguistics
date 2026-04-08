@@ -1,0 +1,12 @@
+mnt/
+__pycache__/
+*.pyc
+.idea/
+models/
+checkpoints/
+data/generated/
+demo_images/
+*.png
+*.txt
+!requirements.txt
+!annotations.txt
